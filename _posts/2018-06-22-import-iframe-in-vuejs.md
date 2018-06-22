@@ -1,13 +1,15 @@
 ---
 layout: post
-title: [Vue] Import iframe
+title: Import iframe in Vuejs
 ---
+
+## How to import iframe in Vuejs when its src is a .html file
 
 ### Background
 
-The versions of vue and webpack I use in project:  
-- "vue": "^2.5.2"
-- "webpack": "^3.6.0"
+  The versions of vue and webpack I use in project:  
+  - "vue": "^2.5.2"
+  - "webpack": "^3.6.0"
 
 ### Issue
 
@@ -74,4 +76,3 @@ Finally everything works fine.
 ### Reference
   - [Importing iframe with Webpack and Vue.js](http://blog.pixelastic.com/2017/09/12/importing-iframe-with-webpack-and-vue-js/)  
   - [vue-loader issue - html image src require not respecting webpack aliases? #193](https://github.com/vuejs/vue-loader/issues/193)
- 
