@@ -3,7 +3,7 @@ layout: post
 title: Change axios baseURL
 ---
 
-## Change axios baseURL dev/prod modes
+## Change axios baseURL for dev/prod modes
 
 ### Background
 
